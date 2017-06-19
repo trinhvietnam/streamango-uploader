@@ -3,3 +3,4 @@ node_modules/
 uploads/
 log/logFile.log
 # ignore js file type
+*.mp4
